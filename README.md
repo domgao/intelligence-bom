@@ -14,8 +14,8 @@
 <dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>io.github.gghqq</groupId>
-            <artifactId>ai-model-management-bom</artifactId>
+            <groupId>io.github.domgao</groupId>
+            <artifactId>intelligence-bom</artifactId>
             <version>1.0.0</version>
             <type>pom</type>
             <scope>import</scope>
