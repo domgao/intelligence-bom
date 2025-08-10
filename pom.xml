@@ -58,7 +58,7 @@
             </dependency>
             <!-- Spring AI -->
             <dependency>
-                <groupId>org.springframework.experimental</groupId>
+                <groupId>org.springframework.ai</groupId>
                 <artifactId>spring-ai-bom</artifactId>
                 <version>${springai.version}</version> <!-- 根据最新可用版本调整 -->
                 <type>pom</type>
